@@ -1,0 +1,2 @@
+# Solo para desarrollar/probar; no se necesita para utilizar las acciones Lua.
+lupa==2.8
